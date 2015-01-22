@@ -1,0 +1,19 @@
+
+{
+  "dependencies": {
+    "mixpanel": "*",
+    "winston": "*",
+    "jsforce": "*",
+    "q": "*",
+    "restify": "*",
+    "underscore-node": "*",
+    "colors": "*",
+    "intercom.io": "*",
+    "sendwithus": "*",
+    "mongodb": "*",
+    "restler": "*",
+    "humanname": "*",
+    "xml2js": "*",
+    "node-phonenumber": "*"
+  }
+}
